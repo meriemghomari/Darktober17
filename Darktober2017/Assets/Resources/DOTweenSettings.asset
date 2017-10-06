@@ -26,5 +26,5 @@ MonoBehaviour:
   defaultEaseOvershootOrAmplitude: 1.70158
   defaultEasePeriod: 0
   defaultAutoKill: 1
-  defaultLoopType: 0
+  defaultLoopType: 1
   storeSettingsLocation: 0
