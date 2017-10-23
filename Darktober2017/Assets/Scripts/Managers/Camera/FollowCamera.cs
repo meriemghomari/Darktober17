@@ -30,7 +30,8 @@ public class FollowCamera : MonoBehaviour
 
             targetPos = transform.position + (targetDirection.normalized * interpVelocity * Time.deltaTime);
 
-            transform.position = Vector3.Lerp(transform.position, targetPos + offset, 0.25f);
+            //transform.position = Vector3.Lerp(transform.position, targetPos + offset, 0.25f);
+            this.transform.position = new Vector3(target.transform.position.x, target.transform.position.y, -10);
 
         }
     }

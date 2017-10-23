@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: a804adabf1126eb4297e2757d9f689ce
-timeCreated: 1507226494
+timeCreated: 1507922436
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -20,6 +20,7 @@ TextureImporter:
     21300026: Foreground_Tileset2_13
     21300028: Foreground_Tileset2_14
     21300030: Foreground_Tileset2_15
+  externalObjects: {}
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -56,7 +57,7 @@ TextureImporter:
   lightmap: 0
   compressionQuality: 50
   spriteMode: 2
-  spriteExtrude: 1
+  spriteExtrude: 0
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
@@ -73,6 +74,7 @@ TextureImporter:
   platformSettings:
   - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
@@ -81,6 +83,7 @@ TextureImporter:
     overridden: 0
   - buildTarget: Standalone
     maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
@@ -89,6 +92,7 @@ TextureImporter:
     overridden: 0
   - buildTarget: iPhone
     maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
@@ -97,6 +101,7 @@ TextureImporter:
     overridden: 0
   - buildTarget: Android
     maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
@@ -105,6 +110,7 @@ TextureImporter:
     overridden: 0
   - buildTarget: WebGL
     maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
@@ -119,11 +125,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 400
-        width: 400
-        height: 400
+        y: 401
+        width: 399
+        height: 399
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -132,12 +138,12 @@ TextureImporter:
       name: Foreground_Tileset2_1
       rect:
         serializedVersion: 2
-        x: 400
-        y: 400
-        width: 400
-        height: 400
+        x: 399
+        y: 401
+        width: 399
+        height: 399
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -146,12 +152,12 @@ TextureImporter:
       name: Foreground_Tileset2_2
       rect:
         serializedVersion: 2
-        x: 800
-        y: 400
-        width: 400
-        height: 400
+        x: 798
+        y: 401
+        width: 399
+        height: 399
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -160,12 +166,12 @@ TextureImporter:
       name: Foreground_Tileset2_3
       rect:
         serializedVersion: 2
-        x: 1200
-        y: 400
-        width: 400
-        height: 400
+        x: 1197
+        y: 401
+        width: 399
+        height: 399
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -174,12 +180,12 @@ TextureImporter:
       name: Foreground_Tileset2_4
       rect:
         serializedVersion: 2
-        x: 1600
-        y: 400
-        width: 400
-        height: 400
+        x: 1596
+        y: 401
+        width: 399
+        height: 399
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -188,12 +194,12 @@ TextureImporter:
       name: Foreground_Tileset2_5
       rect:
         serializedVersion: 2
-        x: 2000
-        y: 400
-        width: 400
-        height: 400
+        x: 1995
+        y: 401
+        width: 399
+        height: 399
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -202,12 +208,12 @@ TextureImporter:
       name: Foreground_Tileset2_6
       rect:
         serializedVersion: 2
-        x: 2400
-        y: 400
-        width: 400
-        height: 400
+        x: 2394
+        y: 401
+        width: 399
+        height: 399
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -216,12 +222,12 @@ TextureImporter:
       name: Foreground_Tileset2_7
       rect:
         serializedVersion: 2
-        x: 2800
-        y: 400
-        width: 400
-        height: 400
+        x: 2793
+        y: 401
+        width: 399
+        height: 399
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -231,11 +237,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 400
-        height: 400
+        y: 2
+        width: 399
+        height: 399
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -244,12 +250,12 @@ TextureImporter:
       name: Foreground_Tileset2_9
       rect:
         serializedVersion: 2
-        x: 400
-        y: 0
-        width: 400
-        height: 400
+        x: 399
+        y: 2
+        width: 399
+        height: 399
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -258,12 +264,12 @@ TextureImporter:
       name: Foreground_Tileset2_10
       rect:
         serializedVersion: 2
-        x: 800
-        y: 0
-        width: 400
-        height: 400
+        x: 798
+        y: 2
+        width: 399
+        height: 399
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -272,12 +278,12 @@ TextureImporter:
       name: Foreground_Tileset2_11
       rect:
         serializedVersion: 2
-        x: 1200
-        y: 0
-        width: 400
-        height: 400
+        x: 1197
+        y: 2
+        width: 399
+        height: 399
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -286,12 +292,12 @@ TextureImporter:
       name: Foreground_Tileset2_12
       rect:
         serializedVersion: 2
-        x: 1600
-        y: 0
-        width: 400
-        height: 400
+        x: 1596
+        y: 2
+        width: 399
+        height: 399
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -300,12 +306,12 @@ TextureImporter:
       name: Foreground_Tileset2_13
       rect:
         serializedVersion: 2
-        x: 2000
-        y: 0
-        width: 400
-        height: 400
+        x: 1995
+        y: 2
+        width: 399
+        height: 399
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -314,12 +320,12 @@ TextureImporter:
       name: Foreground_Tileset2_14
       rect:
         serializedVersion: 2
-        x: 2400
-        y: 0
-        width: 400
-        height: 400
+        x: 2394
+        y: 2
+        width: 399
+        height: 399
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -328,12 +334,12 @@ TextureImporter:
       name: Foreground_Tileset2_15
       rect:
         serializedVersion: 2
-        x: 2800
-        y: 0
-        width: 400
-        height: 400
+        x: 2793
+        y: 2
+        width: 399
+        height: 399
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
