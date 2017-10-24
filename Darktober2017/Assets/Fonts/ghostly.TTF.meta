@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a173110ad0305b640a0496edd686c7f4
+timeCreated: 1508879354
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ghostly
+  fontNames:
+  - Ghostly
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
